@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.div_Card {
+  width: 400px;
+  border: 1px solid black;
+}
+.div_Card img {
+  width: 100%;
+}
+.div_footer {
+  background-color: black;
+  color: #ccc;
+}
